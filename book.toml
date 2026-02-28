@@ -1,0 +1,18 @@
+[book]
+authors = ["Egemen Göl"]
+language = "en"
+src = "src"
+title = "Intro to Accounting for Software People"
+
+[build]
+create-missing = false
+
+# Basic llmstxt.org format output
+[output.llms-txt]
+
+# Detailed llmstxt.org format output with additional information
+# [output.llms-txt-full]
+
+[output.markdown]
+
+[output.html]

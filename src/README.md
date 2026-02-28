@@ -1,4 +1,4 @@
-# Accounting for Fintech Engineers
+# Intro to Accounting for Software People
 
 Most engineers in fintech treat accounting as a business concern — someone else's problem, handed off to the Finance team. This is a mistake. Accounting is a constraint system. Its core invariant — `sum(all_postings) = 0`, always — is a conservation law, and violating it produces the same class of bugs as violating referential integrity or overflowing a counter.
 
@@ -9,6 +9,7 @@ Every concept is shown in two representations simultaneously — **Beancount** (
 ## How to use this
 
 Work linearly. Each module has:
+
 - A **concept section** — the core invariant or pattern
 - A **Socratic dialogue** — try to answer before expanding
 - **Adversarial exercises** — where the actual learning happens. Do not skip them.

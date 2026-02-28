@@ -3,16 +3,16 @@ authors = ["Egemen Göl"]
 language = "en"
 src = "src"
 title = "Intro to Accounting for Software People"
+description = "A curriculum for software engineers who treat accounting as a black box. Frames double-entry bookkeeping as a constraint system: sum(all_postings) = 0. Parallel implementations in Beancount and TigerBeetle."
+
 
 [build]
 create-missing = false
 
-# Basic llmstxt.org format output
-[output.llms-txt]
-
-# Detailed llmstxt.org format output with additional information
-# [output.llms-txt-full]
+[output.html]
+site-url = "https://accounting.egemengol.com/"
+additional-css = ["theme/css/markdown-button.css"]
+additional-js = ["theme/js/markdown-copy.js"]
+preferred-dark-theme = "ayu"
 
 [output.markdown]
-
-[output.html]

@@ -1,0 +1,4 @@
+/* Copy as Markdown button — inherits .icon-button styles from chrome.css */
+#copy-markdown-button {
+    cursor: pointer;
+}

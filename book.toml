@@ -1,5 +1,5 @@
 [book]
-authors = ["Egemen Göl"]
+authors = ["Egemen Göl <egemengol@gmail.com>"]
 language = "en"
 src = "src"
 title = "Intro to Accounting for Software People"

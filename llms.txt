@@ -19,3 +19,4 @@ The content contrasts two implementations to illustrate core invariants:
 - [Multi-Currency and Commodities](md/7-multi-currency-and-commodities.md): Handling multiple ledgers, exchange rates, and inventory tracking.
 - [P/L, Realized vs Unrealized, and Corporate Actions](md/8-pnl-realized-unrealized-corporate-actions.md): Calculating profit and loss, handling stock splits, and dividends.
 - [Fintech Patterns](md/9-fintech-patterns.md): Production patterns including idempotency, correcting entries, rate limiting, and balance-conditional transfers.
+- [About](md/about.md): About the author, Egemen Göl — personal website and book source repository.

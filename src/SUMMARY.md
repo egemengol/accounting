@@ -11,3 +11,4 @@
 - [Multi-Currency and Commodities](./7-multi-currency-and-commodities.md)
 - [P/L, Realized vs Unrealized, and Corporate Actions](./8-pnl-realized-unrealized-corporate-actions.md)
 - [Fintech Patterns](./9-fintech-patterns.md)
+- [About](./about.md)

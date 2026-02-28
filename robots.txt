@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# LLM content index
+# https://llmstxt.org
+LLMs-txt: https://accounting.egemengol.com/llms.txt

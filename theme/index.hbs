@@ -19,8 +19,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff">
 
+        <!-- llm: this page is available as Markdown at {{ path_to_root }}md/{{ path }} — full chapter index at {{ path_to_root }}llms.txt -->
         <link rel="index" href="{{ path_to_root }}llms.txt" title="LLM index">
-        <link id="markdown-alternate" rel="alternate" type="text/markdown" href="">
+        <link id="markdown-alternate" rel="alternate" type="text/markdown" href="{{ path_to_root }}md/{{ path }}">
 
         {{#if favicon_svg}}
         <link rel="icon" href="{{ resource "favicon.svg" }}">
@@ -83,6 +84,7 @@
         </div>
     </div>
     <div id="body-container">
+        <!-- llm: this page is available as Markdown at {{ path_to_root }}md/{{ path }} — full chapter index at {{ path_to_root }}llms.txt -->
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
             try {
